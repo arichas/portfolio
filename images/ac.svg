@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="73px" height="163px" viewBox="0 -0.08 73 163" enable-background="new 0 -0.08 73 163"
+	 xml:space="preserve">
+<defs>
+</defs>
+<path d="M72.938,159.031c-6.797,2.539-12.891,3.809-18.281,3.809c-7.109,0-13.652-1.904-19.629-5.713s-10.625-9.472-13.945-16.992
+	c-3.321-7.52-4.98-16.025-4.98-25.518c0-9.414,1.641-17.871,4.922-25.371s7.91-13.184,13.887-17.051s12.559-5.801,19.746-5.801
+	c5.391,0,11.484,1.262,18.281,3.784v10.781c-6.289-3.655-12.539-5.483-18.75-5.483c-4.688,0-8.975,1.603-12.861,4.809
+	c-3.887,3.206-7.022,7.906-9.404,14.103c-2.383,6.196-3.574,12.929-3.574,20.2c0,7.389,1.23,14.21,3.691,20.465
+	s5.605,10.936,9.434,14.043c3.828,3.108,8.066,4.662,12.715,4.662c6.172,0,12.422-1.816,18.75-5.449V159.031z"/>
+<rect y="10.92" fill="none" width="75.661" height="96.254"/>
+<text transform="matrix(1 0 0 1 0 105.4795)" fill="#FFFFFF" stroke="#000000" font-family="'Monaco'" font-size="120">A</text>
+</svg>
